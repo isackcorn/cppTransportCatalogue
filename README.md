@@ -240,9 +240,9 @@
 ```
 </details>
 
-Файл `requests.json` должен представлять из себя словарь JSON со следующими ключами :
-`serialization_settings` - настройки сериализации.
-`stat_requests` - массив запросов к каталогу
+Файл `requests.json` должен представлять из себя словарь JSON со следующими ключами:
+- `serialization_settings` - настройки сериализации.
+- `stat_requests` - массив запросов к каталогу
 
 <details>
   <summary>requests.json</summary>
