@@ -65,7 +65,7 @@
 Пример верно составленного запроса на построение базы:
 
 <details>
-  <summary>make_base.json</summary>
+  <summary>base.json</summary>
 
 ```json 
   {
