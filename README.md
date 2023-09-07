@@ -58,10 +58,12 @@
 - `base_requests` - массив данных об остановках и маршрутах.
 
 Пример верно составленного запроса на построение базы:
+
 <details>
-  <summary>Пример корректного файла base.json:</summary>
-```json
-   {
+  <summary>make_base.json</summary>
+
+```json 
+  {
       "serialization_settings": {
           "file": "transport_catalogue.db"
       },
@@ -229,7 +231,7 @@
               "road_distances": {}
           }
       ]
-  }
+  }  
 ```
 </details>
 
